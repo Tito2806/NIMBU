@@ -20,8 +20,8 @@ class UsersController extends Controller
     {
         $data = [
             'count_user' => User::latest()->count(),
-            'menu'       => 'admin.menu.v_menu_admin',
-            'content'    => 'admin.content.view_user',
+            'menu'       => 'Admin.menu.v_menu_admin',
+            'content'    => 'Admin.content.view_user',
             'title'    => 'Table User'
         ];
 

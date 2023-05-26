@@ -25,8 +25,8 @@ class GaleriaActividadController extends Controller
     {
         $data = [
             'count_galeriaActividad' => GaleriaActividad::latest()->count(),
-            'menu'       => 'admin.menu.v_menu_admin',
-            'content'    => 'admin.content.view_galeriaActividad',
+            'menu'       => 'Admin.menu.v_menu_admin',
+            'content'    => 'Admin.content.view_galeriaActividad',
             'title'    => 'Tabla GaleriaActividad'
         ];
 

@@ -29,8 +29,8 @@ class ReservaCapacitacionController extends Controller
      {
          $data = [
              'count_reserva' => ReservaCapacitacion::latest()->count(),
-             'menu'       => 'admin.menu.v_menu_admin',
-             'content'    => 'admin.content.view_reservarCapacitacion',
+             'menu'       => 'Admin.menu.v_menu_admin',
+             'content'    => 'Admin.content.view_reservarCapacitacion',
              'title'    => 'Tabla Reservar'
          ];
          $capacitacion = DB::table('capacitacions')->get();

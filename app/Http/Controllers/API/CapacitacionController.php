@@ -21,8 +21,8 @@ class CapacitacionController extends Controller
     {
         $data = [
             'count_capacitacion' => Capacitacion::latest()->count(),
-            'menu'       => 'admin.menu.v_menu_admin',
-            'content'    => 'admin.content.view_capacitacion',
+            'menu'       => 'Admin.menu.v_menu_admin',
+            'content'    => 'Admin.content.view_capacitacion',
             'title'    => 'Tabla Capacitación'
         ];
 

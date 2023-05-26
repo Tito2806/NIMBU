@@ -25,9 +25,9 @@ class HomeController extends Controller
     {
         $data = array(
             'count_user' => DB::table('users')->count(),
-            'menu'      => 'admin.menu.v_menu_admin',
-            'content' => 'admin.content.view_dashboard'
+            'menu'      => 'Admin.menu.v_menu_admin',
+            'content' => 'Admin.content.view_dashboard'
         );
-        return view('admin.layouts.v_template',$data);
+        return view('Admin.layouts.v_template',$data);
     }
 }

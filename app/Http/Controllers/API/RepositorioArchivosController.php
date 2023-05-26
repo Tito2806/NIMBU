@@ -28,8 +28,8 @@ class RepositorioArchivosController extends Controller
 	{
         $data = [
             'count_actividad' => RepositorioArchivo::latest()->count(),
-            'menu'       => 'admin.menu.v_menu_admin',
-            'content'    => 'admin.content.view_repositorio',
+            'menu'       => 'Admin.menu.v_menu_admin',
+            'content'    => 'Admin.content.view_repositorio',
             'title'    => 'Tabla Actividad'
         ];
 

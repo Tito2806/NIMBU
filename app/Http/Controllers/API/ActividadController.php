@@ -21,8 +21,8 @@ class ActividadController extends Controller
     {
         $data = [
             'count_actividad' => Actividad::latest()->count(),
-            'menu'       => 'admin.menu.v_menu_admin',
-            'content'    => 'admin.content.view_actividad',
+            'menu'       => 'Admin.menu.v_menu_admin',
+            'content'    => 'Admin.content.view_actividad',
             'title'    => 'Tabla Actividad'
         ];
 
