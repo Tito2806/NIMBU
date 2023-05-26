@@ -41,7 +41,7 @@ class ActividadController extends Controller
                     ->make(true);
         }
 
-        return view('admin.layouts.v_template',$data);
+        return view('Admin.layouts.v_template',$data);
     }
 
     public function store(ActividadRequest $request)

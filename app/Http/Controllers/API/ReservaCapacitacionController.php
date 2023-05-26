@@ -49,7 +49,7 @@ class ReservaCapacitacionController extends Controller
                      ->make(true);
          }
  
-         return view('admin.layouts.v_template',$data, compact('capacitacion'));
+         return view('Admin.layouts.v_template',$data, compact('capacitacion'));
      }
 
     /**
