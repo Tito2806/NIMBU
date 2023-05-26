@@ -84,13 +84,14 @@
     @foreach($capacitacion as $capacitaciones)
     <div class="col-md-3">
       <div class="mx-auto" width= 100%>
-      <img src="../../../assets/images/slider/Isla1.JPG" class="card-img-top" alt="..." >
+      <img src="../../../../images/Capacitaciones/{{ $capacitaciones->imagen }}" class="card-img-top" alt="..." >
         <div class="card-body">
           <h3 class="card-title">{{$capacitaciones->nombre}}</h3>
           <div class="opciones-menu">
           <h5 class="card-text">Modalidad: {{$capacitaciones->modalidad}}</h5>
           <h5 class="card-text">Fecha: {{$capacitaciones->horario}}</h5>
           <h5 class="card-text">Tema: {{$capacitaciones->tema}} </h5>
+          <h5 class="card-text">descripción: {{$capacitaciones->descripcion}}</h5>
         </div>
           <footer>
             <a href="{{ url('reservacionNimbu/'.$capacitaciones->id ) }}" class="btn btn-info">  Solicitar </a>
