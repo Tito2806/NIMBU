@@ -5,7 +5,9 @@
    
 
     <div class="container">
-      <H1>Actividades</H1>
+     <div class="Titulo">
+     <h1 style="font-size: 50px !important">Actividades</h1>
+     </div>
             <div class="row gx-5">
                 <div class="col-lg-5 mb-5 mb-lg-0" style="min-height: 500px;">
              
@@ -19,7 +21,9 @@
                     <h3 class="display-5 text-uppercase mb-0"> Actividades Avaladas por el CEMEDE </h3>
                     </div>
                     <h5 class="text-body mb-4"> En este apartado se muestra la información correspondiente a diferentes actividades organizadas o promovidas por la institución. Si desea hacer solicitud de una actividad diferente a las ofrecidas, por favor comunicarse al correo @... donde lo atenderá el encargado en este tema.</h5>
+                      <div class="Video-actividad">
                       <iframe width="560" height="315" src="https://www.youtube.com/embed/vlJ5ZprkjN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                      </div>
                     </div>
                 </div>
             </div>
