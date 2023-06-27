@@ -4,6 +4,9 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+.container-about{
+  margin-top: 25px;
+}
 .team-boxed {
   color: #313437;
   background-color: #ffffff !important;

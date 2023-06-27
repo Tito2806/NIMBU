@@ -36,7 +36,7 @@
   <div class="slider-wrapper">
     <div class="fr-slider">
       <div class="slide">
-          <img data-fixed class="slide-bg" src= "../../../assets/images/slider/CapacitacionAzul.png                                                                                                                                                        " data-position="322,468" data-delay="1400" data-in="fade" data-out="fade" alt="slide">
+          <img data-fixed class="slide-bg" src= "../../../assets/images/slider/nimbuc.jpg                                                                                                                                                        " data-position="322,468" data-delay="1400" data-in="fade" data-out="fade" alt="slide">
   
           
          <!-- <img data-position="100,530" data-delay="600" data-in="fade" data-out="fade" src="../../../assets/images/slider/NINBUBLANCO.png" alt="Enfold">
