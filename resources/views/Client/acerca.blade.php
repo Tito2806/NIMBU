@@ -61,16 +61,9 @@
                             <img src="{{ asset('/images/LogoFinal1.png') }}" alt="Enfold">
                         </div>
                         <div class="service-info">
-                            <h5>VALORES DEL NIMBÚ</h5>
+                           
                             <div class="desc">
-                                <p> Acción Social </p>
-
-                                <p>Trabajo En Equipo</p>
-
-                                <p>Innovación</p>
-
-                                <p>Responsabilidad</p>
-
+                               
                                 <a class="see-more" href="#">
 
                                     <div class="line"></div>
