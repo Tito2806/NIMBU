@@ -56,12 +56,12 @@
 						  <li>
 							 <a href="/galeriaNimbu">Galería Fauna</a>
 						  </li>
-                           <li>
-                            <a href="/galeriaActividadNimbu">Galería Actividades</a>
-                         </li>
+              <li>
+               <a href="/galeriaActividadNimbu">Galería Actividades</a>
+               </li>
 						 <li>
-                            <a href="/acerca">Acerca de</a>
-                         </li>
+                <a href="/acerca">Acerca de</a>
+              </li>
 						  <li>
 							 <a href="/admin">Iniciar Sesión</a>
 						  </li>

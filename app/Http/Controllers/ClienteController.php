@@ -38,29 +38,29 @@ class ClienteController extends Controller
 
     public function actividades()
     {
-        $actividad = DB::table('actividads')->paginate(2);
+        $actividad = DB::table('actividads')->paginate(3);
 		return view('Client.actividades', compact('actividad'));
     }
 
     public function galeriaActividad()
     {
-        $galeriaActividad = DB::table('galeriaactividads')->paginate(2);
+        $galeriaActividad = DB::table('galeriaactividads')->paginate(20);
 		return view('Client.galeriaActividad', compact('galeriaActividad'));
     }
     public function galeriaActividadFiltro(Request $request)
     {        $filtro = $request->nombreFiltro;
-        $galeriaActividadFiltro  = GaleriaActividad::select('*')->where('categoriaImg', 'LIKE', '%'.$filtro.'%')->paginate(6);
+        $galeriaActividadFiltro  = GaleriaActividad::select('*')->where('categoriaImg', 'LIKE', '%'.$filtro.'%')->paginate(20);
             return view('Client.galeriaActividadFiltro', compact('galeriaActividadFiltro'));
     }
     public function galeria()
     {        
-            $galeria = DB::table('galerias')->paginate(2);
+            $galeria = DB::table('galerias')->paginate(20);
             return view('Client.galeria', compact('galeria'));
     }
 
     public function galeriaFiltro(Request $request)
     {        $filtro = $request->nombreFiltro;
-        $galeriaFiltro = Galeria::select('*')->where('categoria', 'LIKE', '%'.$filtro.'%')->paginate(1);
+        $galeriaFiltro = Galeria::select('*')->where('categoria', 'LIKE', '%'.$filtro.'%')->paginate(20);
             return view('Client.galeriaFiltro', compact('galeriaFiltro'));
     }
 
