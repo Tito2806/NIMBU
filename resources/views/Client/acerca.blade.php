@@ -6,9 +6,8 @@
     <div class="slider-wrapper">
         <div class="fr-slider">
             <div class="slide">
-                <img data-fixed class="slide-bg" src="../../../assets/images/slider/Barco.JPG" alt="slide">
-                <h1 data-position="60,260" data-delay="800" data-in="fade" data-out="fade" style="color:rgb(251, 251, 252);">
-                    QUIÉNES SOMOS </h1>
+                <img data-fixed class="slide-bg" src="../../../assets/images/slider/1.png" alt="slide">
+                
 
 
                 <!-- <img data-position="100,530" data-delay="600" data-in="fade" data-out="fade" src="../../../assets/images/slider/NINBUBLANCO.png" alt="Enfold">
@@ -62,16 +61,9 @@
                             <img src="{{ asset('/images/LogoFinal1.png') }}" alt="Enfold">
                         </div>
                         <div class="service-info">
-                            <h5>VALORES DEL NIMBÚ</h5>
+                           
                             <div class="desc">
-                                <p> Acción Social </p>
-
-                                <p>Trabajo En Equipo</p>
-
-                                <p>Innovación</p>
-
-                                <p>Responsabilidad</p>
-
+                               
                                 <a class="see-more" href="#">
 
                                     <div class="line"></div>
@@ -125,9 +117,7 @@
                                 <div class="post-info"> <span>
                                         <p> PROFESOR / UNA SEDE NICOYA </p>
                                     </span> </div>
-                                <p>
-                                    FUNCIONARIO DEL CEMEDE
-                                </p>
+                                
                             </div>
                         </li>
                         <li>
@@ -143,9 +133,7 @@
                                 <div class="post-info"> <span>
                                         <p> PROFESOR / UNA SEDE LIBERIA</p>
                                     </span> </div>
-                                <p>
-                                    FUNCIONARIO DEL CEMEDE
-                                </p>
+                               
                             </div>
                         </li>
                         <li>
@@ -161,9 +149,7 @@
                                 <div class="post-info"> <span>
                                         <p> PROFESOR / UNA SEDE NICOYA </p>
                                     </span> </div>
-                                <p>
-                                    FUNCIONARIO DEL CEMEDE
-                                </p>
+                                
                             </div>
                         </li>
                     </ul>
@@ -217,5 +203,28 @@
     
     </div>
     </div>
+
+    <div class="footer-holder">
+        <div class="container">
+           <footer class="site-footer">
+              <div class="row">
+                 <div class="col-md-6">
+                    <link rel="icon" href="{{asset('/images/Water.png')}}">
+                    <p>© Copyright 2023 | SINIMBU </p> <link rel="icon" href="{{asset('/images/Water.png')}}">
+                 </div>
+                 <div class="col-md-6">
+                    <ul class="footer-nav">
+     <li><a href="https://www.facebook.com/profile.php?id=100090633485475&mibextid=LQQJ4d" class="fa fa-facebook"></a></li> 
+     <li><a href="#" class="fa fa-twitter"></a></li> 
+     <li><a href="https://www.youtube.com/@centromesoamericanodedesso4492/videos" class="fa fa-youtube"></a></li>
+     <li><a href="https://www.instagram.com/nimbu_una/" class="fa fa-instagram"></a></li>
+     
+     
+                    </ul>
+                 </div>
+              </div>
+           </footer>
+        </div>
+     </div>
 
 @stop

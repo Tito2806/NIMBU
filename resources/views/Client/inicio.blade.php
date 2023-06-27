@@ -223,7 +223,32 @@
                </div>
             </div>-->
             <!-- Blog Section -->
-           
+            <hr width=1000 style="color: black">
+            <div class="container">
+               <div class="Titulo">
+               </div>
+                      <div class="row gx-5">
+                          <div class="col-lg-5 mb-5 mb-lg-0" style="min-height: 500px;">
+                       
+                              <div class="position-relative h-100">
+                                  <img class="position-absolute w-100 h-100 rounded" src="../../../assets/images/slider/Scall.jpeg" style="object-fit: cover;">
+                              </div>
+                          </div>
+                          <div class="col-lg-7">
+                              <div class="border-start border-5 border-primary ps-5 mb-5">
+                             
+                              <h3 class="display-5 text-uppercase mb-0"> NIMBUNA</h3>
+                              </div>
+                              <h5 class="text-body mb-4">Nimbuna es un proyecto del CEMEDE que se enfoca a la implementación de Sistemas De Captación de Agua de lluvia
+                              </h5>
+                                <div class="Video-actividad">
+                                 <iframe width="660" height="315" src="https://www.youtube.com/embed/zHYBGui4j8U" title="YouTube video player"
+                                  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                </div>
+                              </div>
+                          </div>
+                      </div>
+
 
             <div class="container-about-ENTIDADES" class="align-center">
                <div class="container">

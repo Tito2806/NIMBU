@@ -537,3 +537,14 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 body.dark .logo img {
   filter: brightness(100%);
 }
+
+.testimonials-container{
+	margin-top: 30px;
+}
+
+.container{
+	margin-top: 30px;
+}
+.container-about-ENTIDADES{
+	margin-top: 30px;
+}
