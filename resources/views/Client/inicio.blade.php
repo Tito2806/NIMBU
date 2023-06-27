@@ -4,27 +4,17 @@
       <div class="slider-wrapper">
          <div class="fr-slider">
            <div class="slide">
-               <img data-fixed class="slide-bg" src="../../../assets/images/slider/Isla1.JPG" alt="slide">
-               <img data-position="100,530" data-delay="600" data-in="fade" data-out="fade" src="../../../assets/images/slider/NINBUBLANCO.png" alt="Enfold">
-           <!--<h1 data-position="155,554" data-delay="300" data-in="fade" data-out="fade"> Nimbu </h1>
-               <img data-position="185,430" data-delay="600" data-in="fade" data-out="fade" src="../../../assets/images/slider/Nimbu_Sinfondo.png" alt="Enfold">
-               <img data-position="236,449" data-delay="1000" data-in="fade" data-out="fade" src="../../../assets/images/slider/e3.png" alt="Enfold">
-               <img data-position="322,468" data-delay="1400" data-in="fade" data-out="fade" src="../../../assets/images/slider/e4.png" alt="Enfold">
-               <img data-position="384,446" data-delay="1800" data-in="fade" data-out="fade" src="../../../assets/images/slider/e5.png" alt="Enfold">-->
+               <img data-fixed class="slide-bg" src="../../../assets/images/slider/Isla0.1.webp" alt="slide">
+               <img data-position="100,530" data-delay="600" data-in="fade" data-out="fade" src="../../../assets/images/slider/Logofinal0.1.png" alt="Enfold">
+
             </div>
             <div class="slide">
                <img data-fixed class="slide-bg" src="../../../assets/images/slider/DJI_0289.JPG" alt="Slide">
-             <!--  <img data-position="108,282" data-delay="300" data-in="fade" data-out="fade" src="../../../assets/images/slider/s2e1.png" alt="Enfold">
-               <img data-position="262,131" data-delay="600" data-in="fade" data-out="fade" src="../../../assets/images/slider/s2e2.png" alt="Enfold">
-               <img data-position="322,202" data-delay="1000" data-in="fade" data-out="fade" src="../../../assets/images/slider/s2e3.png" alt="Enfold">
-               <img data-position="369,60" data-delay="1400" data-in="fade" data-out="fade" src="../../../assets/images/slider/s2e4.png" alt="Enfold">-->
+
             </div>
             <div class="slide">
               <img data-fixed class="slide-bg" src="../../../assets/images/slider/DJI_0272.JPG" alt="Slide">
-             <!--   <img data-position="93,505" data-delay="300" data-in="fade" data-out="fade" src="../../../assets/images/slider/deer.png" alt="Enfold">
-               <img data-position="263,274" data-delay="600" data-in="fade" data-out="fade" src="../../../assets/images/slider/s3e1.png" alt="Enfold">
-               <img data-position="338,316" data-delay="1000" data-in="fade" data-out="fade" src="../../../assets/images/slider/s2e4.png" alt="Enfold">
-               <a data-position="440,485" data-delay="1500" data-in="fade" data-out="fade" class="button white-color">Purchase Theme </a>-->
+     
             </div>
          </div>
       </div>
