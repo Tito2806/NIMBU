@@ -9,11 +9,11 @@
 
             </div>
             <div class="slide">
-               <img data-fixed class="slide-bg" src="../../../assets/images/slider/DJI_0289.JPG" alt="Slide">
+               <img data-fixed class="slide-bg" src="../../../assets/images/slider/Toma aerea.webp" alt="Slide">
 
             </div>
             <div class="slide">
-              <img data-fixed class="slide-bg" src="../../../assets/images/slider/DJI_0272.JPG" alt="Slide">
+              <img data-fixed class="slide-bg" src="../../../assets/images/slider/VistaCosta.webp" alt="Slide">
      
             </div>
          </div>
